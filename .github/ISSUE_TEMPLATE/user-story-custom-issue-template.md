@@ -8,4 +8,9 @@ assignees: ''
 
 ---
 
-As a user I need to have
+ID: created when template is used
+Title: Created when template is used
+Related To Epic: #
+Description: As a User, I want, so that..
+Acceptance Criteria
+Risk:

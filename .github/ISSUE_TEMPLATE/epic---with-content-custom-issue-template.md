@@ -1,7 +1,7 @@
 ---
-name: Epic - Custom issue template
-about: From the Product Owner
-title: ''
+name: Epic - with content Custom issue template
+about: 'For creating Epics '
+title: Epic
 labels: Epic
 assignees: ''
 
